@@ -6,11 +6,14 @@ In this project I am going to scrape job postings from Indeed and build a model 
 Ideally, I would predict the actual salaries advertised in the postings instead of the salary estimates, but very few of them have salary information. Indeed does not explicitly provide salary estimates for each posting, but has a filter that allows setting a desired minimum salary. By incrementally varying filtering criteria and recording the search results, we can infer the salary bracket of the job posting.
  
 Features and target variables
+
 Features:
 1) City, State
 2) Experience level
-3) Position
-4) Presence of specific keywords  in the job description (e.g. python, SQL, Spark, etc.)
+3) Years of experience
+4) Position
+5) Presence of specific keywords  in the job description (e.g. python, SQL, Spark, etc.)
+
 Target:
 Salary estimate (by Indeed)
  
