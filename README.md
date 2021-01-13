@@ -1,4 +1,4 @@
-# Salary-Estimate-Prediction-for-US-Based-Data-Professionals-
+# Salary Estimate Prediction for US Based Data Professionals
 
 Objective
 In this project I am going to scrape job postings from Indeed and build a model to predict Salary Estimates for full-time Data Scientist, Data Analyst and Data Engineer roles in major cities across the US. During this project I am going to conduct an exploratory data analysis of the scraped data and understand what factors affect the salary estimates of the Data Scientist job postings. 
