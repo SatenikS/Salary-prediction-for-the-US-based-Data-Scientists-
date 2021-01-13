@@ -15,8 +15,9 @@ Target:
 Salary estimate (by Indeed)
  
 Data Sources
-1) Wikipedia
-2) Indeed
+1) [Wikipedia](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population)
+
+2) [Indeed](https://www.indeed.com/)
  
 Used tools
 1) BeautifulSoup
