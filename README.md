@@ -25,4 +25,5 @@ Used tools
 3) scikit-learn
 
 Possible impacts on the project
+
 The results from this project will help identify how different factors impact the salaries of data professionals. Identifying which keywords correlate with higher salaries can potentially help prepare a better resume when applying for roles.
